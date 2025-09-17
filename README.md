@@ -1,8 +1,5 @@
-## Hi there! Ana speaking!
 
-I am a Computer Science & Engineering student at Universidade da Coruña, in Galicia, Spain. Right now, though, I'm doing my Erasmus exchange at NTNU (Norwegian University of Science and Technology). <br />
-I'm mostly interested in software engineering and web and interfaces design, but I still have a lot to learn ✨.  <br />
-<br />
+Computer Science & Engineering student | Universidade da Coruña (UDC) | Erasmus exchange at NTNU (Norwegian University of Science and Technology). <br />
 
 ### Professional info
 Here is my profile for more professional information on myself: <br />
